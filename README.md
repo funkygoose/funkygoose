@@ -9,7 +9,7 @@ I've been learning to code for the past year as a passion of mine and have learn
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [funkygoose](https://funkygoose.github.io)
 * ✉️  You can contact me at urielabanuelos@gmail.com
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js 14
 
 ### Skills
 
